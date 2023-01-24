@@ -1,6 +1,6 @@
 # Speaker Mask
 
-
+Design is still under construction
 
 # Schematic design
 ![image](https://user-images.githubusercontent.com/51321472/187263559-cb24385a-d5de-415f-90e9-d2e830c1ab36.png)
